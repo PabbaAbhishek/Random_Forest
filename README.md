@@ -6,4 +6,5 @@ Packages need to be installed:
 * Scikit-learn
 * Matplotlib
 
-The dataset ***superstore_ml*** is used and the code in jupyter notebook is published.
+The dataset ***Samplesuperstore_ml*** is used for the model and the code in jupyter notebook is the machine learning code used.
+The random forest regression model gave an accuracy of about 99%.
